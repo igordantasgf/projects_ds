@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/igordantasgf/projects_ds/blob/main/image_detect/detect.png" width="50%" height="50%" alt="Sublime's custom image"/>
+</p>
+
 # Image Detecting Code
 Made for image segmentation on videos (cars, trucks, buses...). Still being studied and tested
 
@@ -9,3 +13,6 @@ Made for image segmentation on videos (cars, trucks, buses...). Still being stud
 - Python
 - PyTorch
 - OpenCV
+
+### Credits:
+- https://towardsdatascience.com/implementing-real-time-object-detection-system-using-pytorch-and-opencv-70bac41148f7
